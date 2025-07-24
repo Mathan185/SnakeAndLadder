@@ -18,8 +18,7 @@ src/
 
 ## 🛠 Technologies Used
 
-- Java 8 or higher
-- Console I/O
+- Java 
 
 ## ▶️ How to Run
 
